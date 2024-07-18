@@ -54927,7 +54927,7 @@ A.BT.prototype={
 eB(a,b){var s=this.a,r=J.bH(s)
 if(b?r.B(s,a):r.A(s,a))this.aN()}}
 A.yS.prototype={
-P(a){return new A.q5(B.C_,"Flutter Demo",A.a8p(null,A.aem(B.M,B.BP),!0),null)}}
+P(a){return new A.q5(B.C_,"Golf Score",A.a8p(null,A.aem(B.M,B.BP),!0),null)}}
 A.qk.prototype={
 aw(){return new A.u8(B.q)}}
 A.u8.prototype={
@@ -54935,7 +54935,7 @@ O9(){this.aH(new A.ZA(this))},
 P(a){var s=null,r=A.az(a).ax,q=r.y2
 r=q==null?r.c:q
 this.a.toString
-q=A.a8m("Flutter Demo Home Page",s)
+q=A.a8m("Golf Score Home Page",s)
 return new A.rj(new A.o8(q,r,new A.Fu(s,s,1/0,56),s),A.JD(A.aes(A.a([B.JP,A.a8m(""+this.d,A.az(a).p2.e)],t.nA),B.of),s,s),A.a6q(B.ym,!1,this.gO8(),"Increment"),s)}}
 A.ZA.prototype={
 $0(){++this.a.d},
